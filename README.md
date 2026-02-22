@@ -15,8 +15,6 @@
 
 <br/>
 
-<img src="./assets/asksql-connect.png" alt="NaturalDB Interface" width="700"/>
-
 </div>
 
 ---
